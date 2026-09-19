@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNubDRpa2xiMjF6Y3I0Mm55cGJxeW9kcHpqMzdub2hqZ3R2a2hkbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RE9krXX2HgbQjJCEst/giphy.gif" width="90" alt="test"/> I'm Angélique Becerra...
-**Data Analyst**, transitioning from a 7 year career in **clinical psychology**.
+**Data Analyst**, with from 7 years' experience as a **clinical psychologist**, now focused on Behavioral & Growth Analytics.
 
 _Years spent working carefully with complex, messy human information trained me to spot patterns, ask the right questions, and communicate findings clearly to non-specialists. I'm now applying that same rigor to data: cleaning, querying, and visualizing it to answer real business questions._
 
